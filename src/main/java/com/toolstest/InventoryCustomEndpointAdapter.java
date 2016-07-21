@@ -32,7 +32,7 @@ public class InventoryCustomEndpointAdapter extends
     private static final Logger LOG = LoggerFactory.getLogger(InventoryCustomEndpointAdapter.class);
     @Autowired
     private InventoryFacade inventoryFacade;
-
+private int num;
     @SuppressWarnings("PMD.PreserveStackTrace")
     @Override
     protected void doInTenant(final OmsInventory inventory) 
