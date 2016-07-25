@@ -1,4 +1,5 @@
 package com.toolstest;
+import java.lang.String;
 
 /**
  * Hello world!
