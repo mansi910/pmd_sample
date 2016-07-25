@@ -14,7 +14,7 @@ public class App {
     public static string test(){  
       int num;
       
-      public class Foo { public void close() { if (true) {	// fixed conditional, not recommended // ... } } }
+      
       
       try{  
         System.out.println("Hello World!");
