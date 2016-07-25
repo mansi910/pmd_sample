@@ -13,12 +13,7 @@ public class App {
     //public static void main(String[] args) {
     public static string test(){  
       int num;
-      
-      public class Bar {
- private int x;
- protected int y; // all members must be private!
- Bar() {}
- }
+    
       
       try{  
         System.out.println("Hello World!");
