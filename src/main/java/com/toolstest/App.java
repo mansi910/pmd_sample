@@ -13,11 +13,6 @@ public class App {
     public static string test(){  
       int num;
       
-      if()
-      {
-    
-      }
-      
       try{  
         System.out.println("Hello World!");
         if(num > 0){
