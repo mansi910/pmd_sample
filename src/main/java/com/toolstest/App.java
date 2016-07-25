@@ -14,7 +14,7 @@ public class App {
     public static string test(){  
       int num;
       
-      void bar() { if (x) {	// original implementation if (y) { // do stuff } } } void bar() { if (x && y)
+      
       
       try{  
         System.out.println("Hello World!");
