@@ -14,7 +14,7 @@ public class App {
     public static string test(){  
       int num;
       
-      public class Bar { public String foo() { try { throw new Exception( "My Exception" ); } catch (Exception e) { throw e; } finally { return "A. O. K."; // return not recommended here } } }
+      void bar() { if (x) {	// original implementation if (y) { // do stuff } } } void bar() { if (x && y)
       
       try{  
         System.out.println("Hello World!");
