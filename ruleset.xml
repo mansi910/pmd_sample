@@ -423,8 +423,8 @@ public class Bar {
 
    <rule ref="rulesets/java/imports.xml/DuplicateImports"/>
    <rule ref="rulesets/java/imports.xml/DontImportJavaLang"/>
-   <!--rule ref="rulesets/java/imports.xml/UnusedImports"/-->
-   <!--rule ref="rulesets/java/imports.xml/UnusedImports"/-->
+   <rule ref="rulesets/java/imports.xml/UnusedImports"/>
+
    <rule ref="rulesets/java/imports.xml/ImportFromSamePackage"/>
    
    <rule name="ImportFromChildPackage" 
@@ -725,8 +725,8 @@ starts-with(.//PrimarySuffix/@Image,'Mockito.verify')
    </rule>   
    
    
-   <!--rule ref="rulesets/java/unusedcode.xml/UnusedPrivateField"--> 
-   <!--rule ref="rulesets/java/unusedcode.xml/UnusedPrivateField"--> 
+   <rule ref="rulesets/java/unusedcode.xml/UnusedPrivateField"> 
+    
                     <priority>2</priority>   
    </rule>   
    
